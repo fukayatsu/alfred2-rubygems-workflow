@@ -22,7 +22,7 @@
 				<key>modifiers</key>
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string>past {query}</string>
+				<string>paste {query} to &lt;Enter&gt;</string>
 			</dict>
 		</array>
 	</dict>
