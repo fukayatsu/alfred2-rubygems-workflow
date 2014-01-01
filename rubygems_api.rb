@@ -31,6 +31,6 @@ gems  = JSON.parse(open(url).read).map do |g|
   }
 end
 
-gems = gems.sort { |a, b| a[:downloads] <=> b[:downloads] }.reverse
+# gems = gems.sort { |a, b| a[:downloads] <=> b[:downloads] }.reverse
 
 puts to_xml(query, gems)

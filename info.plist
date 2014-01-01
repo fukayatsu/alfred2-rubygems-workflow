@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.fukayatsu.rubygems</string>
 	<key>connections</key>
 	<dict>
 		<key>0A7F94DA-8824-4BEA-892C-25D9882A4143</key>
@@ -27,13 +27,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>fukayatsu</string>
 	<key>description</key>
-	<string></string>
+	<string>search rubygems</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Script Filter to Script to Notification</string>
+	<string>rubygems</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -117,6 +117,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/fukayatsu/alfred2-rubygems-workflow</string>
 </dict>
 </plist>
